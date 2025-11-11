@@ -22,7 +22,7 @@ public class Percobaan4No3 {
                 hasil = i;
                 break;
             }
-        }
+        } 
 
         System.out.println();
 
