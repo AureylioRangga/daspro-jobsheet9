@@ -68,6 +68,6 @@ Percobaan 4
 3. Modifikasi program pada percobaan 4 di atas, sehingga program akan memberikan pesan
    "Nilai yang dicari tidak ditemukan" jika nilai yang dicari (key) tidak ada di dalam array.
    Contoh tampilan program sebagai berikut:
-   jawab : sudah
+   jawab : sudah 
 
 
