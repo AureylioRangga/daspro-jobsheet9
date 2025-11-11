@@ -9,7 +9,7 @@ public class SearchNilai07 {
                 hasil = i;
                 break;
             }
-        }
+        } 
         System.out.println();
         System.out.println("Nilai "+key+" ketemu di indeks ke-"+hasil);
         System.out.println();
