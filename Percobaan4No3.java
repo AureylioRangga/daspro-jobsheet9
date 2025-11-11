@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Percobaan4No2 {
+public class Percobaan4No3 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -26,12 +26,12 @@ public class Percobaan4No2 {
 
         System.out.println();
 
-        
         if (hasil != -1) {
             System.out.println("Nilai " + key + " ketemu, merupakan nilai mahasiswa ke-" + (hasil + 1));
         } else {
             System.out.println("Nilai yang dicari tidak ditemukan");
         }
+
 
         input.close();
     }
