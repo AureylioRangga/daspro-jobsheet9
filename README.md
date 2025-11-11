@@ -49,7 +49,7 @@ Percobaan 3
 2. Modifikasi program pada praktikum percobaan 3 di atas (ArrayRataNilaiXX.java)sehingga
    program menerima jumlah elemen berdasarkan input dari pengguna dan mengeluarkan
    output seperti berikut ini:
-   jawab :
+   jawab : sudah
 
 
 Percobaan 4
