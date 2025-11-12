@@ -6,7 +6,7 @@ Percobaan 1
            Tipe data int hanya dapat menyimpan bilangan bulat tanpa koma, jadi nilai desimal tidak dapat dimasukkan.
 
 2. Modifikasi kode program di atas dengan melakukan inisialisasi elemen array sekaligus pada saat deklarasi array.
-
+  
 3. Ubah statement pada langkah No 4 menjadi seperti berikut
    jawab : keluaran tetap menampilkan seluruh isi array.
            penjelasannya : bil.length adalah array (jumlah elemen). jadi perulangan akan berjalan sebanyak panjang array, tanpa harus menulis batas angka secara manual.
